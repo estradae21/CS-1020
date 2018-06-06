@@ -1,0 +1,13 @@
+Calculates mileage reimbursement using arrays.
+Once it calculates the information it will print to screen
+and it will also write a file with the information
+
+ Mileage    Reimbursement 
+________    _____________
+
+The total reinumbermbursement is 0.00
+The total amount of miles is 0.0
+The number miles that were processed is 10
+The amount of miles that were greater than zero  0.0
+The average miles travel is  �
+The average reimbursement is  �

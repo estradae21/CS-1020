@@ -1,0 +1,16 @@
+ Mileage    Reimbursement 
+________    _____________
+   250.6       45.11
+    99.4       17.89
+    -2.8       *****
+   999.4      126.93
+   799.4      124.91
+  1899.8      199.98
+     0.0       *****
+  1300.2      140.02
+  1101.7      139.20
+  3333.3      239.00
+
+The total reinumbermbursement is 1033.04
+The total amount of miles is 9783.8
+The number of mileage values that are > 0 are 8
